@@ -1,0 +1,10 @@
+Accepted password for user shani from 192.168.1.10 port 22 ssh2
+Failed password for root from 45.33.32.156 port 22 ssh2
+Failed password for root from 45.33.32.156 port 22 ssh2
+Failed password for root from 45.33.32.156 port 22 ssh2
+POST /login.php user=admin' OR 1=1
+GET /wp-admin.php 403
+GET /index.html 200
+GET /about.html 200
+Failed password for admin from 185.220.101.45 port 22 ssh2
+GET /phpmyadmin 404
