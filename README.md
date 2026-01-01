@@ -123,24 +123,6 @@ npm run dev
 - Attack chain correlation
 - Timeline of suspicious activity
 
-#### Screenshots
-## Demo
-
-<details>
-<summary><strong>Click to expand demo</strong></summary>
-
-### 📊 Log Analysis Demo
-
-**Input**
-- `auth.log`
-- `apache2.log`
-
-**What LOTG shows**
-- Risk score: **HIGH**
-- Brute-force detection
-- Attack chain correlation
-- Timeline of suspicious activity
-
 #### Screenshot
 
 <img width="1250" height="1329" alt="image" src="https://github.com/user-attachments/assets/f5455e41-d93c-4bd7-ad57-7a098fbe4fc8" /> 
